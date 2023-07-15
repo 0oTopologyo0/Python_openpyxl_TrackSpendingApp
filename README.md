@@ -1,1 +1,2 @@
 # Python_openpyxl_TrackSpendingApp
+這是一個利用Python模組openpyxl結合excel的記帳程式
